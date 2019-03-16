@@ -116,6 +116,7 @@ ol {
     margin-top: 0;
     color: #3C3C3C;
     color: var(--copy);
+    line-height: 1.5;
 }
 
 ol li {
