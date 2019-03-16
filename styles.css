@@ -143,6 +143,10 @@ ol li {
     margin-bottom: 2.5rem;
 }
 
+.section p {
+    line-height: 1.5;
+}
+
 .intro {
     max-width: 685px;
     margin-left: auto;
