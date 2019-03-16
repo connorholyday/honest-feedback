@@ -64,7 +64,7 @@ body {
     font-weight: bold;
 }
 
-.nav a:not(:last-child) {
+.nav-link:not(:last-child) {
     margin-right: 2.5em;
 }
 
